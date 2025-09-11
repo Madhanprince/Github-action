@@ -1,4 +1,4 @@
-#include "function.hpp"
+#include "function.h"
 
 int add(int a, int b) {
     return a - b;

@@ -1,0 +1,6 @@
+C:/Users/RMCPDEDT024/Desktop/git_action/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/RMCPDEDT024/Desktop/git_action/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/RMCPDEDT024/Desktop/git_action/build/src/CMakeFiles/functions.dir
+C:/Users/RMCPDEDT024/Desktop/git_action/build/src/CMakeFiles/main.dir
+C:/Users/RMCPDEDT024/Desktop/git_action/build/tests/CMakeFiles/func.dir
+C:/Users/RMCPDEDT024/Desktop/git_action/build/tests/CMakeFiles/test_runner.dir

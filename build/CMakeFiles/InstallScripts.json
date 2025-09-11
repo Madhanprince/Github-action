@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/RMCPDEDT024/Desktop/git_action/build/cmake_install.cmake",
+		"C:/Users/RMCPDEDT024/Desktop/git_action/build/src/cmake_install.cmake",
+		"C:/Users/RMCPDEDT024/Desktop/git_action/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

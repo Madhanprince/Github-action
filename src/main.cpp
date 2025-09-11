@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "function.hpp"
+#include "function.h"
 
 int main() {
     std::cout << "Sum: " << add(5, 3) << std::endl;

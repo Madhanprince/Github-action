@@ -1,5 +1,5 @@
 #include <cassert>
-#include "function.hpp"
+#include "function.h"
 
 int main() {
     assert(add(2, 3) == 5);
