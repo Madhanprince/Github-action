@@ -12,7 +12,15 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - name: run and compile 
-        run: .\first
-       
+      - name: creating build directory
+        run: mkdir Build
+
+      - name: configure cmake
+        run: cmake -S . -B Build
+
+      - name : build cmake
+        run : cmake --Build .
+
+      - name: Run tests
+        run : .\Build\tests\test_runner.exe
         
