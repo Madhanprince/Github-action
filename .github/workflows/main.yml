@@ -12,9 +12,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - name: creating build directory
-        run: mkdir Build
-
       - name: configure cmake
         run: cmake -S . -B Build
 
